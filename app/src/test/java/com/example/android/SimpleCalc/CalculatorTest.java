@@ -23,6 +23,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
+import static junit.framework.TestCase.fail;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.number.IsCloseTo.closeTo;
@@ -92,8 +93,11 @@ public class CalculatorTest {
     }
     @Test
     public void divByZeroThrows() {
-        double resultDiv = mCalculator.div(2,0);
-        throw new IllegalArgumentException("invalid");
+        try {
+            double resultDiv = mCalculator.div(9,0);
+            fail();
+        } catch (IllegalArgumentException expected) {
+        }
     }
 
 }
