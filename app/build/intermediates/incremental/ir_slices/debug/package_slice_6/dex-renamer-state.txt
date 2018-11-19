@@ -1,0 +1,4 @@
+#Sun Nov 18 18:30:09 EST 2018
+base.0=/Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

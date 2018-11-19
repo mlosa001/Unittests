@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb4c8d6879ab713f70d79921b76b5abd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba0c36e510b4e23fef2ce19fe547a4f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ddd0a3679cd48c69e7a5e62ec1ee1daa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b259917d73b3000ef8baf8828fdf6c5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02a21807c3ea1c676c5de5d530083add/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b31c998e08c00d7999b4ab596ce4a514/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e91cd3287a754f8006f8ef73af26ebb0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aee7d6fe0b385eb373bb840c76a1dcc7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ea8361a9b68b9653857a4ac1d0dc3650/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bd2cf2d0ecdfebbfe191997d2f02571/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20200ae81e3bbbd61e3a78880b61d7ec/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb4c8d6879ab713f70d79921b76b5abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb4c8d6879ab713f70d79921b76b5abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba0c36e510b4e23fef2ce19fe547a4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba0c36e510b4e23fef2ce19fe547a4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ddd0a3679cd48c69e7a5e62ec1ee1daa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ddd0a3679cd48c69e7a5e62ec1ee1daa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b259917d73b3000ef8baf8828fdf6c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b259917d73b3000ef8baf8828fdf6c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02a21807c3ea1c676c5de5d530083add/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02a21807c3ea1c676c5de5d530083add/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b31c998e08c00d7999b4ab596ce4a514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b31c998e08c00d7999b4ab596ce4a514/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e91cd3287a754f8006f8ef73af26ebb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e91cd3287a754f8006f8ef73af26ebb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aee7d6fe0b385eb373bb840c76a1dcc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aee7d6fe0b385eb373bb840c76a1dcc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ea8361a9b68b9653857a4ac1d0dc3650/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ea8361a9b68b9653857a4ac1d0dc3650/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bd2cf2d0ecdfebbfe191997d2f02571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4bd2cf2d0ecdfebbfe191997d2f02571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20200ae81e3bbbd61e3a78880b61d7ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/marysollosada/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/20200ae81e3bbbd61e3a78880b61d7ec/AndroidManifest.xml:20:5-44
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marysollosada/Desktop/AndroidStudioProjects/Implicit_Intents_Receiver/android-fundamentals-starter-apps-v2/SimpleCalc/app/src/main/AndroidManifest.xml
